@@ -1,0 +1,107 @@
+nav{
+background:#eeeeee ;
+}
+.text-left{
+  font-size: 25px;
+  color: black ;
+  margin-left: -80px;
+  padding-bottom:  60px;
+}
+.nav-item{
+align-items: flex-end;
+}
+.my_profile{
+  color: #00a4d7 ;
+}
+.search{
+  width: 90%;
+  background: #e3e3e3 ;
+  height: 70px;
+  align-items: center;
+  border-radius: 5px;
+}
+.form_one{
+  width: 38%;
+  height: 40px;
+}
+.btn-outline-success{
+  width: 60px;
+}
+input:focus{
+outline: none ;
+}
+input{
+border: none;
+}
+.form-control_1{
+  border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 100%;
+}
+.btn-secondary{
+  background: #d0d0d0 ;
+border-radius: none
+}
+button:focus{
+  outline: none ;
+}
+.bb{
+  height: 40px;
+  border: none ;
+  width: 50px;
+  border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.search_button{
+  width: 14%;
+}
+.content{
+  width: 90%;
+  margin-top: 50px;
+}
+ .dropdown-toggle{
+  width: 100%;
+  color: black;
+  text-align: left;
+  background-color: white ;
+  border: none;
+}
+.fa-couch{
+color: black;
+}
+.dropdown-menu{
+  width: 100%;
+}
+.search2{
+    width: 90%;
+    border: 1px solid grey;
+}
+.image{
+  margin-top: -70px;
+  margin-left: -20px;
+  flex-direction: row;
+}
+.text-right{
+  margin: 20px 20px 0 0 ;
+  font-size: 30px;
+}
+.italian{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+  flex-direction: column;
+}
+.text-bottom{
+margin-top: 75px;
+margin-left: 20px;
+color: #8e8e8e ;
+font-size: 14px;
+}
+.text-bottom2{
+  margin-left: 20px;
+}
+@media screen and (max-width:800px) {
+  .ad_bw{
+    display: none;
+  }
+}
