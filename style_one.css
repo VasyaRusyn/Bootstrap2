@@ -1,0 +1,113 @@
+nav{
+background:#eeeeee ;
+}
+.text-left{
+  font-size: 25px;
+  color: black ;
+  margin-left: -80px;
+  padding-bottom:  60px;
+}
+.nav-item{
+align-items: flex-end;
+}
+.my_profile{
+  color: #00a4d7 ;
+}
+.search{
+  width: 90%;
+  background: #9ed9eb ;
+  height: 70px;
+  align-items: center;
+  border-radius: 5px;
+}
+.form_one{
+  width: 43%;
+  height: 40px;
+}
+.btn-outline-success{
+  width: 60px;
+}
+input:focus{
+outline: none ;
+}
+input{
+border: none;
+}
+.form-control_1{
+  border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 100%;
+}
+.btn-secondary{
+  background: #d0d0d0 ;
+border-radius: none
+}
+button:focus{
+  outline: none ;
+}
+.bb{
+  height: 40px;
+  border: none ;
+  width: 50px;
+  border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.search_button{
+  width: 14%;
+}
+.content{
+
+  width: 90%;
+  margin-top: 50px;
+}
+.child{
+
+flex-direction: column;
+
+}
+.searcsh{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+.items{
+  font-size: 35px;
+}
+.fa-address-book{
+  color: #0dbf6f ;
+}
+.fa-wrench{
+  color: #4183e6 ;
+}
+.fa-sync-alt{
+  color: #fed500 ;
+}
+.fa-home{
+  color: #4183e6 ;
+}
+.fa-paw{
+  color: #9d9d9d ;
+}
+.fa-tshirt{
+  color: #c43838 ;
+}
+.fa-car-alt{
+  color: #fed500 ;}
+.fa-couch{
+color:   #1e68bf;
+}
+.fa-bicycle{
+    color: #fed500 ;
+}
+.fa-cogs{
+    color: #c43838 ;
+}
+.fa-mobile-alt{
+    color: #0dbf6f ;
+}
+.fa-gift{
+  color:   #1e68bf;
+}
+.magin{
+  margin-top:  -30px;
+}
