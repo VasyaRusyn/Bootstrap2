@@ -1,0 +1,94 @@
+nav{
+background:#eeeeee ;
+}
+
+.text-left{
+  font-size: 25px;
+  color: black ;
+  margin-left: -80px;
+  padding-bottom:  60px;
+}
+.nav-item{
+align-items: flex-end;
+}
+.my_profile{
+  color: #00a4d7 ;
+}
+@media screen and (max-width:800px) {
+  .ad_bw{
+    display: none;
+  }
+}
+.first-conteiner{
+  border: 1px solid #e0e0e0 ;
+
+}
+.italian-text{
+
+  font-size: 22px;
+}
+.text-bottom{
+  color: #8e8e8e ;
+  font-size: 14px;
+}
+.row{
+  overflow: hidden;
+}
+.mony {
+ border: 1px solid #e0e0e0 ;
+ border-radius: 10px;
+ padding-top: 5px;
+ position: relative;
+}
+.mony::before, .mony::after {
+ content: '';
+ position: absolute;
+ left: -20px; bottom: 25px;
+ border: 10px solid transparent;
+ border-right:  10px solid #e0e0e0 ;
+}
+.mony::after {
+ border-right:  10px solid white;
+ bottom: 25px;
+ left: -16px
+}
+.wiew{
+  height: 60px;
+  background: #e8e8e8 ;
+  width: 100%;
+  margin-left:12px;
+}
+.wiew>p{
+  margin-left: 50px;
+  margin-top: 10px;
+  color: #949494 ;
+}
+.user{
+  width: 300px;
+  flex-direction: column;
+  }
+.mony{
+  font-size: 30px;
+}
+.btn-info{
+  color: white;
+}
+.Vadim{
+  height: 250px;
+  background-color: #e0e0e0 ;
+  border-radius: 5px;
+}
+.icon{
+  position: relative;
+
+  top: -30px;
+}
+.btn-light{
+  background: none ;
+  width: 90% ;
+  border: 1px solid #06bdde ;
+}
+.complain{
+  color: #e41d29 ;
+  text-decoration: none;
+}
